@@ -10,6 +10,7 @@ class Factura {
 	Estado estado
 	Date fechaEmicion
 	Date fechaPago	
+	Responsable responsable
 
     static constraints = {
 
